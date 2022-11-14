@@ -1,15 +1,4 @@
-const client = {
-  name: "Sam",
-  age: 21,
-};
+// посчитать факториал от n
+const factorial = (n) => "?";
 
-const increaseAge = (x = { ...client }) => (x.age += 1);
-const changeAgeAndName = (x = { ...client }) => {
-  x.age += 1;
-  x.name = "Jin";
-};
-
-increaseAge(client);
-changeAgeAndName();
-
-console.log(client); //?
+console.log(factorial(5));
