@@ -26,22 +26,27 @@ https://www.youtube.com/watch?v=vIZs5tH-HGQ
 
 ## Прототипы
 https://www.youtube.com/watch?v=aQkgUUmUJy4
+
 или https://www.youtube.com/watch?v=o_HntOTCqks
 
 необязательно: https://learn.javascript.ru/prototype-inheritance
+
 необязательно: https://learn.javascript.ru/native-prototypes
 
 ---
 
 ## Promise
 https://www.youtube.com/watch?v=1idOY3C1gYU&t=637s
+
 или https://www.youtube.com/watch?v=0O-ZVnwbGW4
 
 необязательно: https://learn.javascript.ru/callbacks
+
 необязательно: https://learn.javascript.ru/promise-basics
 
 ## async await
 https://www.youtube.com/watch?v=SHiUyM_fFME
+
 или https://www.youtube.com/watch?v=SLQAVVziUzg
 
 ---
@@ -59,9 +64,12 @@ https://www.youtube.com/watch?v=np08WdS9OXg&list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zO
 ---
 
 ## Модули
-https://www.youtube.com/watch?v=Gl2ycydXChc, 
-https://www.youtube.com/watch?v=yG-NTy2WyQE, 
-https://www.youtube.com/watch?v=mA8b60bq9_4, 
+https://www.youtube.com/watch?v=Gl2ycydXChc
+
+https://www.youtube.com/watch?v=yG-NTy2WyQE
+
+https://www.youtube.com/watch?v=mA8b60bq9_4
+
 https://www.youtube.com/watch?v=TtSemE_0F2k
 
 необязательно: https://learn.javascript.ru/modules-intro
