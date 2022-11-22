@@ -55,3 +55,13 @@ https://www.youtube.com/watch?v=6_XzKtGPgE8
 https://www.youtube.com/watch?v=np08WdS9OXg&list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT&index=9 (теория)
 
 необязательно: https://learn.javascript.ru/proxy
+
+---
+
+## Модули
+https://www.youtube.com/watch?v=Gl2ycydXChc
+https://www.youtube.com/watch?v=yG-NTy2WyQE
+https://www.youtube.com/watch?v=mA8b60bq9_4
+https://www.youtube.com/watch?v=TtSemE_0F2k
+
+необязательно: https://learn.javascript.ru/modules-intro
