@@ -21,13 +21,17 @@ https://learn.javascript.ru/mouse-events-basics (события мыши)
 ## html
 https://www.youtube.com/watch?v=DOEtVdkKwcU
 
+необязательно: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics
+
 ## css
 https://www.youtube.com/watch?v=SpCUuyZZTp8
+
+необязательно: https://developer.mozilla.org/ru/docs/Learn/CSS/First_steps
 
 ---
 # ПРАКТИЧЕСКАЯ ЗАДАЧА
 
-##Сделать одностраничный сайт TODO
+## Сделать одностраничный сайт TODO
 
 Что должно присутствовать на сайте:
 
@@ -40,3 +44,7 @@ https://www.youtube.com/watch?v=SpCUuyZZTp8
 Какой функционал нужен:
 
 Добавлять задачи в общий список и удалять задачи из списка
+
+Требования:
+
+css в отдельном файле
